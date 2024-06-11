@@ -1,0 +1,44 @@
+body{
+    background-image: url(back\ img.jpg);
+    background-size: cover;
+}
+h1{
+    padding: 30px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+p{
+    font-size: large;
+    padding: 10px;
+    color: rgb(236, 213, 213);
+}
+hr{
+    color: black;
+}
+label{
+    width: 100px;
+}
+fieldset{
+    margin: 100px;
+    display: inline-flexbox ;
+    align-content: center;
+    width: 50%;
+    height: 50%;
+}
+textarea{
+    border: 1px;
+    width: 100%;
+    background: none;
+    border-style: dotted;
+    border-color: white ;
+    color: white;
+}
+input{
+    background: none;
+    color: white;
+}
+form{
+  border-width: 50% ;
+  height: 50%;
+}
